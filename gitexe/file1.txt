@@ -1,3 +1,3 @@
-Welcome to DevOps Training
+Welcome to DevOps Training & Agile Methodlogies
 welcome to AWS Training
-welcome to Agile DevOps
+
